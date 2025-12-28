@@ -3,9 +3,6 @@
 **Pepper audio scripts**			12/27/25
 
 
-
-
-
 **Becky**
 
 *Clip#   Script                        			duration* 
@@ -104,11 +101,11 @@
 
 **Songs**
 
-I bought these on Itunes, copied them as MP3 with Itunes and imported them into Audacity. From Audacity, I copied them into the SD card
+I bought most of these on Itunes, copied them as MP3 with Itunes and imported them into Audacity. From Audacity, I copied them into the SD card
 
-82   Lay Down Your Arms – Chordettes
+82   Lay Down Your Arms – Chordettes - I downloaded this from "Chordettes Greatest Hits"
 
-84   Never on Sunday - Chordettes
+84   Never on Sunday - Chordettes  - I downloaded this from "Chordettes Greatest Hits"
 
 85   Ghost riders in the sky – Highwaymen  3:15
 
@@ -125,6 +122,7 @@ I bought these on Itunes, copied them as MP3 with Itunes and imported them into 
 92   Rough Boy by ZZ Top
 
 100   Pepper by the Butthole Surfers
+
 
 
 
